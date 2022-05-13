@@ -1,0 +1,12 @@
+{
+    "name": "animalposting",
+    "version": "1.0.0",
+    "author": "Vukky",
+    "original_pain_version": "1.0.0",
+    "min_pain_version": "1.0.0",
+    "entrypoints": {
+        "duck": "src/duck.js",
+        "cat": "src/cat.js",
+        "dog": "src/dog.js"
+    }
+}
